@@ -85,3 +85,20 @@ h1 {
   opacity: 0.8;
   margin-top: 15px;
 }
+
+.big-timer {
+  margin: 25px 0;
+}
+
+.timer-text {
+  font-size: 14px;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+}
+
+.timer-number {
+  font-size: 64px;
+  font-weight: 900;
+  color: #ee0707;
+  text-shadow: 0 0 15px rgba(1, 0, 0, 0.8);
+}
